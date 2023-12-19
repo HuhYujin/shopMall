@@ -8,7 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("부트 탬플릿 어플리케이션 실행");
+		System.out.println("부트 탬플릿 어플리케이션 실행.");
 	}
 
 }
